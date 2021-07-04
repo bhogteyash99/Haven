@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447813923249",
+    "firebase_url": "https://haven-cb53e.firebaseio.com",
+    "project_id": "haven-cb53e",
+    "storage_bucket": "haven-cb53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447813923249:android:00f293ecab488d447d0d90",
+        "android_client_info": {
+          "package_name": "com.example.haven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447813923249-e72oq1rluv4qhqlun32jk973deuog6ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjO9nAQbv0K72Lz5L2uzspmU7i3VN4pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447813923249-e72oq1rluv4qhqlun32jk973deuog6ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
